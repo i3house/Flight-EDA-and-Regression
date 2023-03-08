@@ -5,7 +5,7 @@ The entire dataset can be found here: [2015 Flight Delays and Cancellations](htt
 
 I am working with a randomized subset of 'flights.csv' data file to perform my analysis and building a regression model. File attached.
 
-The flights.csv file contains the following features along with some data definitions & values
+The flights.csv file contains the following features along with some data definitions & values\n
 YEAR (2015)
 MONTH (1 through 12)
 DAY (1 through 31)
