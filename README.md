@@ -3,7 +3,7 @@ The objective of this project is to conduct an in-depth exploratory data analysi
 
 The entire dataset can be found here: [2015 Flight Delays and Cancellations](https://www.kaggle.com/datasets/usdot/flight-delays)
 
-I am working with a randomized subset of 'flights.csv' data file to perform my analysis and building a regression model. File attached.
+I am working with a randomized subset of 'flights.csv' data file to perform my analysis and building a regression model. Attaching the CSV file, the python file as well as my approach and findings in a easy to understand report :)
 
 The flights.csv file contains the following features along with some data definitions & values  
 YEAR (2015)  
