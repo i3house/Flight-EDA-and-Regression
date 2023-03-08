@@ -1,5 +1,5 @@
 # Flight-EDA-and-Regression
-The objective of this project is to conduct an in-depth exploratory data analysis on a subset of the flight delay dataset, with the aim of investigating the potential influence of a set of variables on flight arrival delay times.
+The objective of this project is to conduct an in-depth exploratory data analysis on a subset of the flight delay dataset, with the aim of investigating the potential influence of a set of variables on flight arrival delay times. It gave me a good learning on using statsmodels module for Multiple Linear Regression, creating and interpreting residuals v/s fitted value plots and QQ plots to test Linear Models.
 
 The entire dataset can be found here: [2015 Flight Delays and Cancellations](https://www.kaggle.com/datasets/usdot/flight-delays)
 
